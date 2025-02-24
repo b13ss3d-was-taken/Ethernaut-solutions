@@ -18,3 +18,4 @@ This repository contains my solutions to the [Ethernaut](https://ethernaut.openz
 - [Challenge 14: Gatekeeper Two](/challenges/14-Gatekeeper%20Two/README.md)
 - [Challenge 15: Naught Coin](/challenges/15-Naught%20Coin/README.md)
 - [Challenge 16: Preservation](/challenges/16-Preservation/README.md)
+- [Challenge 17: Recovery](/challenges/17-Recovery/README.md)
