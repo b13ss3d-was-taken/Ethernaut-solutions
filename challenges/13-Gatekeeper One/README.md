@@ -34,12 +34,12 @@ Ok, let's begin with the last require:
 3. The **last 4 bytes** of the `\_gateKey` must equal its **last 2 bytes**, ensuring the form `0x0000XXXX`   
 Basically it has to be like this:   
 ```solidity
-	 		      8 bytes(64 bits)
+                      8 bytes(64 bits)
 	 ┌────────────────────┴─────────────────────┐	 
-         4bytes(32 bits)  |    4bytes(32 bits)
-     ┌──────────┴─────────┐──────────╋──────────┐
-     │     not 0x0000     │  0x0000  │ tx.origin│
-     └────────────────────┘──────────┴──────────┘
+             4bytes(32 bits)  |    4bytes(32 bits)
+         ┌──────────┴─────────┐──────────╋──────────┐
+         │     not 0x0000     │  0x0000  │ tx.origin│
+         └────────────────────┘──────────┴──────────┘
 
 ```
 I made one contract and one script for automating the exploitation:   
