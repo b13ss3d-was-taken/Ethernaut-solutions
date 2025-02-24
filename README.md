@@ -16,3 +16,5 @@ This repository contains my solutions to the [Ethernaut](https://ethernaut.openz
 - [Challenge 12: Privacy](/challenges/12-Privacy/README.md)
 - [Challenge 13: Gatekeeper One](/challenges/13-Gatekeeper%20One/README.md)
 - [Challenge 14: Gatekeeper Two](/challenges/14-Gatekeeper%20Two/README.md)
+- [Challenge 15: Naught Coin](/challenges/15-Naught%20Coin/README.md)
+- [Challenge 16: Preservation](/challenges/16-Preservation/README.md)
