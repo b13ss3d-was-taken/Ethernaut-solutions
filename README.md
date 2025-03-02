@@ -19,3 +19,7 @@ This repository contains my solutions to the [Ethernaut](https://ethernaut.openz
 - [Challenge 15: Naught Coin](/challenges/15-Naught%20Coin/README.md)
 - [Challenge 16: Preservation](/challenges/16-Preservation/README.md)
 - [Challenge 17: Recovery](/challenges/17-Recovery/README.md)
+- [Challenge 18: MagicNumber](/challenges/18-MagicNumber/README.md)
+- [Challenge 19: Alien Codex](/challenges/19-Alien%20Codex/README.md)
+- [Challenge 20: Denial](/challenges/20-Denial/README.md)
+- [Challenge 21: Shop](/challenges/21-Shop/README.md)
